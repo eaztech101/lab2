@@ -1,9 +1,4 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+I will be talking about how to use **Github Desktop**. Github Desktop is an easy and interactive way to utilize Git and Github. I have previous knowledge on using Github and Github desktop from an internship I had over the summer. My team built a website from scratch and used Github as version control. I'll be showing how to build a website from scratch using Github Desktop.
 
-Good luck!
+*Screencast submission* - [YouTube video by Stephen Dalo](https://youtu.be/a1FIIdIrnMU)
